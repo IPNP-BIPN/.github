@@ -1,5 +1,6 @@
 BIPN is dedicate to conceptualize user needs in bioinformatics, to process data and to interpret the results from High-throughput projects in the specific fields of neuroscience and psychiatry. The platform is able to develop omics’ molecular analyses (genomics with Genome-wide Association study or Polygenic risk score, methylomics, trancriptomics, proteomics). Another mission of the platform is to maintain and transmit the adequate tools, coding and computer resources to manage data flows, storage and accessibility. 
 
+![](Modalities.png)
 BIPN has expertise for Collection, Processing, Analysis and interpretation In different domains
 
 ## Data Management
