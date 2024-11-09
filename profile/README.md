@@ -5,48 +5,16 @@ BIPN is dedicate to conceptualize user needs in bioinformatics, to process data 
 ![](Modalities.png)
 BIPN has expertise for Collection, Processing, Analysis and interpretation In different domains
 
-## Data Management
-* Data Warehousing
-* Data Architecture
-* Data Bases
-* Data Transformation
+| **Category**               | **Details**                                                                          |
+|----------------------------|--------------------------------------------------------------------------------------|
+| **Data Management**        | Data Warehousing, Data Architecture, Data Bases, Data Transformation, Languages      |
+| **Languages**              | Linux, Python, SQL, R                                                               |
+| **Computer Tools**         | Plink, PRSice2, Minfi, Kallisto, Bismark, ENSEMBL-VEP                               |
+| **Transmission**           | Generate scripts, Create tutorials, Design analysis, Teaching computer tools        |
+| **Collaborations with IPNP Teams** | Team Krebs, Team Gorwood/Ramoz, Team Oppenheim, GHU Paris (Anatomopathology) |
+| **External Collaborations**| PEPR PROPSY, CNRGH, Institut Imagine, Private companies (Diagenode, Integragen)     |
+| **IPNP Facilities**        | 1 NAS (96 To of storage), 1 Working station (1 To of RAM & 88 cpu), 1 research engineer |
 
-## Languages
-* Linux
-* Python
-* SQL
-* R
-
-## Computer tools
-* Plink
-* PRSice2
-* Minfi
-* Kallisto
-* Bismark
-* ENSEMBL-VEP
-
-## Transmission
-* Generate scripts
-* Create tutorials
-* Design analysis
-* Teaching computer tools
-
-## Collaborations with IPNP teams
-* Team Krebs
-* Team Gorwood/Ramoz
-* Team Oppenheim
-* GHU Paris (Anatomopathology)
-
-## External collaborations
-* PEPR PROPSY
-* CNRGH
-* Institut Imagine
-* Private companies (Diagenode, Integragen)
-
-## IPNP Facilities
-* 1 NAS  (96 To of storage)
-* 1 Working station (1 To of RAM & 88 cpu)
-* 1 research engineer## Hi there 👋
 
 <!--
 
