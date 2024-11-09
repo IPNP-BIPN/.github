@@ -5,17 +5,15 @@ BIPN is dedicate to conceptualize user needs in bioinformatics, to process data 
 ![](Modalities.png)
 
 BIPN has expertise for Collection, Processing, Analysis and interpretation In different domains
-
 | **Category**               | **Details**                                                                          |
 |----------------------------|--------------------------------------------------------------------------------------|
 | **Data Management**        | Data Warehousing, Data Architecture, Data Bases, Data Transformation, Languages      |
 | **Languages**              | Linux, Python, SQL, R                                                               |
-| **Computer Tools**         | Plink, PRSice2, Minfi, Kallisto, Bismark, ENSEMBL-VEP                               |
+| **Computer Tools**         | [Plink](https://github.com/chrchang/plink-ng), PRSice2, [Minfi](https://github.com/hansenlab/minfi), [Kallisto](https://github.com/pachterlab/kallisto), [Bismark](https://github.com/FelixKrueger/Bismark), [ENSEMBL-VEP](https://github.com/Ensembl/ensembl-vep) |
 | **Transmission**           | Generate scripts, Create tutorials, Design analysis, Teaching computer tools        |
 | **Collaborations with IPNP Teams** | Team Krebs, Team Gorwood/Ramoz, Team Oppenheim, GHU Paris (Anatomopathology) |
 | **External Collaborations**| PEPR PROPSY, CNRGH, Institut Imagine, Private companies (Diagenode, Integragen)     |
-| **IPNP Facilities**        | 1 NAS (96 To of storage), 1 Working station (1 To of RAM & 88 cpu), 1 research engineer |
-
+| **IPNP Facilities**        | 1 NAS (96 To of storage), 1 Working station (1 To of RAM & 88 CPUs), 1 research engineer |
 
 <!--
 
