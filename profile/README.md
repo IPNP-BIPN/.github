@@ -9,10 +9,10 @@ BIPN has expertise for Collection, Processing, Analysis and interpretation In di
 |----------------------------|--------------------------------------------------------------------------------------|
 | **Data Management**        | Data Warehousing, Data Architecture, Data Bases, Data Transformation, Languages      |
 | **Languages**              | Linux, Python, SQL, R                                                               |
-| **Computer Tools**         | [Plink](https://github.com/chrchang/plink-ng), PRSice2, [Minfi](https://github.com/hansenlab/minfi), [Kallisto](https://github.com/pachterlab/kallisto), [Bismark](https://github.com/FelixKrueger/Bismark), [ENSEMBL-VEP](https://github.com/Ensembl/ensembl-vep) |
+| **Computer Tools**         | [Plink](https://github.com/chrchang/plink-ng), [PRSice2](https://github.com/choishingwan/PRSice), [Minfi](https://github.com/hansenlab/minfi), [Kallisto](https://github.com/pachterlab/kallisto), [Bismark](https://github.com/FelixKrueger/Bismark), [ENSEMBL-VEP](https://github.com/Ensembl/ensembl-vep) |
 | **Transmission**           | Generate scripts, Create tutorials, Design analysis, Teaching computer tools        |
 | **Collaborations with IPNP Teams** | [Team Krebs](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/7-equipe-krebs), [Team Gorwood/Ramoz](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/11-equipe-gorwood), [Team Oppenheim](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/18-equipe-oppenheim), GHU Paris (Anatomopathology) |
-| **External Collaborations**| PEPR PROPSY, CNRGH, Institut Imagine, Private companies (Diagenode, Integragen)     |
+| **External Collaborations**| [PEPR-PROPSY](https://pepr-propsy.fr), [CNRGH](https://jacob.cea.fr/drf/ifrancoisjacob/english/Pages/Departments/CNRGH.aspx), [Institut Imagine](https://www.institutimagine.org/en), Private companies (Diagenode, Integragen)     |
 | **IPNP Facilities**        | 1 NAS (48 To of storage), 1 Working station (1 To of RAM & 88 CPUs), 1 research engineer |
 
 <!--
