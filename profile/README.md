@@ -13,7 +13,7 @@ BIPN has expertise for Collection, Processing, Analysis and interpretation In di
 | **Transmission**           | Generate scripts, Create tutorials, Design analysis, Teaching computer tools        |
 | **Collaborations with IPNP Teams** | [Team Krebs](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/7-equipe-krebs), [Team Gorwood/Ramoz](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/11-equipe-gorwood), [Team Oppenheim](https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/18-equipe-oppenheim), GHU Paris (Anatomopathology) |
 | **External Collaborations**| [PEPR-PROPSY](https://pepr-propsy.fr), [CNRGH](https://jacob.cea.fr/drf/ifrancoisjacob/english/Pages/Departments/CNRGH.aspx), [Institut Imagine](https://www.institutimagine.org/en), Private companies (Diagenode, Integragen)     |
-| **IPNP Facilities**        | 1 NAS [DS1819+](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/19-year/DS1819+/fre/Synology_DS1819_Plus_Data_Sheet_fre.pdf) (48 To of storage), 1 Working station (1 To of RAM & 88 CPUs), research engineer : [Benjamin Demaille|()https://www.linkedin.com/in/benjamin-demaille/
+| **IPNP Facilities**        | 1 NAS [DS1819+](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/19-year/DS1819+/fre/Synology_DS1819_Plus_Data_Sheet_fre.pdf) (48 To of storage), 1 Working station (1 To of RAM & 88 CPUs), research engineer : [Benjamin Demaille](https://www.linkedin.com/in/benjamin-demaille/) |
 
 <!--
 
